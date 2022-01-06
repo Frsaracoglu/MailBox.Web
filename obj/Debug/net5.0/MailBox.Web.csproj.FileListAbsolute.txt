@@ -1,0 +1,810 @@
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.exe
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.deps.json
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.json
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.dev.json
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\NetEscapades.Extensions.Logging.RollingFile.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.Manifest.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.xml
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\scopedcss\bundle\MailBox.Web.styles.css
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.input.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.output.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorCoreGenerate.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\GroupFamily.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\GroupFriends.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\GroupWork.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\NewContact.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\SendMailToContact.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Update.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Emails\WelcomeEmail.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\RegisterUser.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPassword.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Setting\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CopyComplete
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.genruntimeconfig.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.exe
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.deps.json
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.json
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\NetEscapades.Extensions.Logging.RollingFile.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.Manifest.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.xml
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\scopedcss\bundle\MailBox.Web.styles.css
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.input.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.output.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorCoreGenerate.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Calender\Index.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\GroupFamily.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\GroupFriends.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\GroupWork.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\NewContact.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\SendMailToContact.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Update.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Emails\WelcomeEmail.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\RegisterUser.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPassword.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Setting\Index.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CopyComplete
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\source\repos\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Calender\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.exe
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.deps.json
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.json
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.dev.json
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\log4net.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.Manifest.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.xml
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\scopedcss\bundle\MailBox.Web.styles.css
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.input.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.output.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorCoreGenerate.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Calender\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\NewContact.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\SendMailToContact.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Update.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Emails\WelcomeEmail.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\RegisterUser.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPassword.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Setting\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CopyComplete
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MicroKnights.Log4NetAdoNetAppender.dll
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\log4netdb.config
+C:\Users\Fatih\Desktop\projeyedek\Yeni klasör\MailBox.Web\MailBox.Web\bin\Debug\net5.0\log4netfile.config
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\log4netfile.config
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\log4netdb.config
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.exe
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.deps.json
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.json
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.runtimeconfig.dev.json
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\log4net.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailKit.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MicroKnights.Log4NetAdoNetAppender.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxBackgroundJob.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxEntity.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxService.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxData.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\bin\Debug\net5.0\MailBoxUtil.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorAssemblyInfo.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.Manifest.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\staticwebassets\MailBox.Web.StaticWebAssets.xml
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\scopedcss\bundle\MailBox.Web.styles.css
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.input.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.TagHelpers.output.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorCoreGenerate.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Calender\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\NewContact.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\SendMailToContact.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Contact\Update.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Emails\WelcomeEmail.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPassword.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\RegisterUser.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPassword.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Login\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Setting\Index.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.Views.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.csproj.CopyComplete
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\ref\MailBox.Web.dll
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.pdb
+C:\Users\Fatih\Desktop\MailBox.Web\MailBox.Web\obj\Debug\net5.0\MailBox.Web.genruntimeconfig.cache

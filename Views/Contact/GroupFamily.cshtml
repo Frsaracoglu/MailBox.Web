@@ -1,0 +1,46 @@
+﻿@model List<Contact>
+@*@{
+        var ContactGroups = ViewBag.ContactGroups as SelectList;
+    }*@
+
+<a href="~/Contact/NewContact" class="btn btn-sm" style="width:none;">+ Yeni Kişi Oluştur</a>
+<br />
+<br />
+<input class="form-control" style="width:12rem; display:inline-block" id="searchInput" type="text" placeholder="Search..">
+@*@Html.DropDownList("GroupId", new SelectList(ViewBag.ContactGroups, "GroupId", "Name"), "Grup Seçiniz...", new { @class = "form-select" })*@
+<select id="UrlList" onchange="doNavigate()" class="form-control-sm">
+    <option value="">Select a Group...</option>
+    <option value="@Url.Action("GroupFriends", "Contact")">Friends</option>
+    <option value="@Url.Action("GroupFamily", "Contact")" selected>Family</option>
+    <option value="@Url.Action("GroupWork", "Contact")">Work</option>
+    <option value="@Url.Action("Index", "Contact")">General</option>
+</select>
+<div class="list-table col-md-10">
+    <table class="contact-table table" id="contactTable">
+        <thead>
+            <tr role="row">
+                <th class="sorting" tabindex="0" aria-controls="tbl1" aria-sort="ascending" aria-label="Ad">Ad</th>
+                <th class="sorting" tabindex="0" aria-controls="tbl1" aria-sort="ascending" aria-label="Soyad">Soyad</th>
+                <th class="sorting" tabindex="0" aria-controls="tbl1" aria-sort="ascending" aria-label="DogumGunu">Doğum Günü</th>
+                <th class="sorting" tabindex="0" aria-controls="tbl1" aria-sort="ascending" aria-label="EMail">E-Mail</th>
+            </tr>
+        </thead>
+        <tbody id="search_Input">
+            @if (Model != null)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr role="row">
+                        <td>@item.Name</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Birthday.Date</td>
+                        <td>@item.EMail</td>
+                        <td style="text-align:center"> <input type="button" class="btn btn-sm" value="Güncelle" onclick="@("window.location.href='" + @Url.Action("UpdateContact", "Contact", new {listId =item.ContactId})  + "'");" /></td>
+                        <td style="text-align:center"><button type="button" data-model-id="@item.ContactId" class="deleteRecord btn btn-sm"><i class="fa fa-trash-o"></i>Sil</button></td>
+                        <td style="text-align:center"><button type="button" data-model-id="@item.ContactId" class="btn btn-sm"><i class="fa fa-trash-o"></i>Mail At</button></td>
+                    </tr>
+                }}
+        </tbody>
+    </table>
+</div>
+

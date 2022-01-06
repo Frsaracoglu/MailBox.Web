@@ -1,0 +1,82 @@
+﻿@model Contact
+@{
+    var ContactGroups = ViewBag.ContactGroups != null ? ViewBag.ContactGroups as SelectList : null;
+}
+
+<div class="update-container">
+    <div class="update-header">
+        <h4><span class="icon-update-header fa fa-user-plus" style="color: #008080"> Kişi Oluşturma</span></h4>
+    </div>
+    <br />
+    <div id="newContactViewBag">
+        @if (ViewBag.Message != null)
+        {
+            <br /><span style="color:red;">@ViewBag.Message</span>
+        }
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="update-box">
+                @using (Html.BeginForm("NewContact", "Contact", FormMethod.Post, new { @id = "newContact" }))
+                {
+                    <div class="form-group ">
+                        @Html.LabelFor(n => n.Name, "İsim", new { @class = "mb-1 text-color" })
+                        @Html.TextBoxFor(n => n.Name, new { @class = "form-control", placeholder = "İsim giriniz", required = "required" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.LastName, "Soyisim", new { @class = "mb-1 text-color" })
+                        @Html.TextBoxFor(n => n.LastName, new { @class = "form-control", placeholder = "Soyisim giriniz", required = "required" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.Birthday, "Doğum Tarihi", new { @class = "mb-1 text-color" })
+                        <input type="date" name="birthday" id="birthday" class="form-control date-time-picker" required>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.EMail, "Mail", new { @class = "mb-1 text-color" })
+                        @Html.TextBoxFor(n => n.EMail, new { @class = "form-control", placeholder = "example@example.com", required = "required", type = "email" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.GroupId, "Grup", new { @class = "mb-1 text-color" })
+                        <div class="d-flex">
+                            @Html.DropDownList("ContactGroups", new SelectList(ViewBag.ContactGroups, "GroupId", "Name"), "Grup Seçiniz...", new { @class = "form-control", required = "required" })
+                            <button type="button" id="newGroupBtn" class="ml-5 text-color" data-toggle="modal" data-target="#addGroupModal"><i class="fa fa-plus mr-2" aria-hidden="true"></i> Yeni Grup</button>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-2rem">
+                        <button type="button" class="goBack btn">Geri Dön</button>
+                        <button class="addNewContact btn" type="submit">Kaydet</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addGroupModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel" style="color: #008080">Yeni Grup</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+
+            @using (Html.BeginForm("AddNewGroup", "Contact", FormMethod.Post, new { @id = "addNewGroup" }))
+            {
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1" style="color: #008080">Grup İsmi</label>
+                        <input type="text" class="form-control" id="name" name="name" aria-describedby="emailHelp" placeholder="Brolar..">
+                        <small id="emailHelp" class="form-text text-muted">Kendine özel grubunu oluştur.</small>
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-between">
+                    <button type="button" class="btn btn-sm" data-dismiss="modal">Kapat</button>
+                    <button type="submit" class="btn btn-sm">Kaydet</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>

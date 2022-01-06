@@ -1,0 +1,68 @@
+﻿@{ Layout = null;}
+@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MailBox.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/vendor/kendo/kendo.common.min.css" rel="stylesheet" />
+    <link href="~/vendor/kendo/kendo.default.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MailBox</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="~/home/index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="~/contact/index">Contacts</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="~/setting/index">Settings</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="~/calender/index">Calender</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="~/hangfire">Hangfire</a>
+                        </li>
+                    </ul>
+                </div>
+                <span>Merhaba @Context.Session.GetString("user_name") @Context.Session.GetString("user_lastName")</span>
+                <div><a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Logout"><span class="fa fa-sign-out"></span>Logout</a></div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <div id="scheduler"></div>
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - MailBox.Web
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://use.fontawesome.com/bfd989aaaf.js"></script>
+    <script src="~/vendor/kendo/kendo.all.min.js"></script>
+    <script src="~/vendor/kendo/kendo.culture.tr-TR.min.js"></script>
+    <script src="~/vendor/kendo/kendo.messages.tr-TR.min.js"></script>
+    <script src="~/vendor/kendo/kendo.timezones.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

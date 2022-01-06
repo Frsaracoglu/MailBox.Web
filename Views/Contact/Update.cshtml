@@ -1,0 +1,53 @@
+﻿@model Contact
+@{
+    var ContactGroups = ViewBag.ContactGroups as SelectList;
+}
+
+<div class="update-container">
+    <div class="update-header">
+        <h4><span class="icon-update-header fa fa-pencil" style="color: #008080"> Kişi Güncelleme</span></h4>
+    </div>
+    <br />
+    <div id="contactUpdateViewBag">
+        @if (ViewBag.Message != null)
+        {
+            <br /><span style="color:red;">@ViewBag.Message</span>
+        }
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="update-box">
+                @using (Html.BeginForm("Update", "Contact", FormMethod.Post, new { @id = "updateContact" }))
+                {
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.Name, "İsim", new { @class = "mb-1 text-color" })
+                        @Html.TextBoxFor(n => n.Name, new { @class = "form-control", placeholder = "İsminizi giriniz", required = "required" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.LastName, "Soyisim", new { @class = "mb-1 text-color" })
+                        @Html.TextBoxFor(n => n.LastName, new { @class = "form-control", placeholder = "Soyisminizi giriniz", required = "required" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.Birthday, "Doğum Tarihi", new { @class = "mb-1 text-color" })
+                        <input type="date" name="birthday" id="birthday" class="form-control date-time-picker">
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.EMail, "Mail", new { @class = "mb-1 text-color" })
+                        @Html.TextBoxFor(n => n.EMail, new { @class = "form-control", placeholder = "example@example.com", required = "required", type = "email" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(n => n.GroupId, "Grup", new { @class = "mb-1 text-color" })
+                        @Html.DropDownList("GroupId", new SelectList(ViewBag.ContactGroups, "GroupId", "Name"), "Grup Seçiniz...", new { @class = "form-control" })
+                        @Html.HiddenFor(n => n.ContactId)
+                    </div>
+                    <div class="d-flex justify-content-between mt-2rem">
+                        <button type="button" class="goBack btn btn-primary">Geri Dön</button>
+                        <button class="updateContactRecord btn btn-primary" type="submit">Kaydet</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,53 @@
+﻿@model MailMessageDto
+
+
+<div class="update-container">
+    <div class="update-header">
+        <h4><span class="icon-update-header fa fa-envelope" style="color: #008080"> Mail Gönder</span></h4>
+    </div>
+    <br /> 
+    <div id="sendMailViewBag">
+        @if (ViewBag.Message != null)
+        {
+            <br /><span style="color:red;">@ViewBag.Message</span>
+        }
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="send-mail-content">
+                <div class="send-box">
+                    @using (Html.BeginForm("SendMailToContact", "Contact", FormMethod.Post, new { @id = "formMailToContact" }))
+                    {
+                        <div class="form-group">
+                            @Html.LabelFor(n => n.To, "Gönderilen", new { @class = "mb-1 text-color" })
+                            @Html.DropDownListFor(n => n.To, new SelectList(ViewBag.Contact, "ContactId", "Name"), "Kişi Seçiniz...", new { @class = "form-control", required="required" })
+                        </div>
+                        <div class="form-group">
+                            @Html.HiddenFor(n => n.From)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(n => n.Subject, "Konu", new { @class = "mb-1 text-color" })
+                            @Html.TextBoxFor(n => n.Subject, new { @class = "form-control", placeholder = "Konu giriniz", required = "required" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(n => n.Body, "Mail", new { @class = "mb-1 text-color" })
+                            @Html.TextAreaFor(n => n.Body, new { @id = "mailTextArea", @class = "form-control", placeholder = "Mailiniz...", @cols = 50, @rows = 7, required = "required" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(n => n.SendDate, "Tarih", new { @class = "mb-1 text-color", required = "required" })
+                            <input type="date" name="sendDate" id="sendDate" value="@DateTime.Now" class="form-control date-time-picker">
+                        </div>
+                        <div class="d-flex justify-content-between mt-2rem">
+                            <button type="button" class="goBack btn">Geri Dön</button>
+                            <button class="send-mail-contact-btn btn" type="submit">Gönder</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

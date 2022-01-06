@@ -1,0 +1,69 @@
+﻿@{ Layout = null;}
+@model User
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MailBox.Web</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/vendor/bootstrap3.3.7/css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <div class="container-fluid">
+                <div class="row main-content bg-success text-center">
+                    <div class="col-md-4 text-center company__info">
+                        <span>Hesabınız yok mu?</span>
+                        <a class="btn-register btn-sm btn-success mt-5px" href="~/Login/RegisterUser">Kayıt Olun</a>
+                    </div>
+                    <div class="col-md-8 col-xs-12 col-sm-12 login_form">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <h2>MailBox</h2>
+                            </div>
+                            <div id="loginViewBag">
+                                @if (ViewBag.Message != null)
+                                {
+                                    <br /><span style="color:red;">@ViewBag.Message</span>
+                                }
+                            </div>
+                            <div class="row">
+                                @using (Html.BeginForm("Login", "Login", FormMethod.Post, new { @class = "mt-2rem w90", @id = "loginForm" }))
+                                {
+                                    <div class="pos-rel">
+                                        <i class="fa fa-user"></i>
+                                        @Html.TextBoxFor(n => n.EMail, new { @class = "form-control", placeholder = "E-mail", type = "email" })
+                                    </div>
+                                    <div class="pos-rel mt-10px">
+                                        <i class="fa fa-lock"></i>
+                                        @Html.PasswordFor(n => n.Password, new { @class = "form-control", placeholder = "Password", minlength = "3" })
+                                    </div>
+                                    <div class="d-flex justify-content-between mt-5px">
+                                        <div>
+                                            <input type="checkbox" name="remember_me" id="remember_me">
+                                            <label for="remember_me">Beni hatırla</label>
+                                        </div>
+                                        <div>
+                                            <a class="underlineHover" href="~/Login/ForgotPassword">Şifremi Unuttum</a>
+                                        </div>
+                                    </div>
+                                    <div class="mt-2rem">
+                                        <input type="submit" value="Giriş" class="btn" style="width:70%;">
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/vendor/bootstrap3.3.7/js/bootstrap.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+
+-------Log Starts
+Date: 2021-12-09 10:35:10,409 
+
+LogLevel: [1] INFO  
+
+Logger: MailBox.Web.Providers.LoggerManager 
+
+Message: Log System Initialized 
+
+Exception:  
+ 
+-------Log Ends
+
+
+-------Log Starts
+Date: 2021-12-09 10:35:10,422 
+
+LogLevel: [1] INFO  
+
+Logger: MailBox.Web.Providers.LoggerManager 
+
+Message: Starting the Host 
+
+Exception:  
+ 
+-------Log Ends
+
+
+-------Log Starts
+Date: 2021-12-09 10:35:17,203 
+
+LogLevel: [8] INFO  
+
+Logger: MailBox.Web.Providers.LoggerManager 
+
+Message: fatih isimli kullanıcı giriş yaptı. 
+
+Exception:  
+ 
+-------Log Ends
+

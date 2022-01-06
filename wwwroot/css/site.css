@@ -1,0 +1,248 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+/*General
+-----------------------------------------------------*/
+.text-color {
+    color: #008080;
+}
+
+#loginForm .error {
+    color: red;
+}
+
+#userRegisterForm .row {
+    display: block;
+}
+
+#userRegisterForm .error {
+    color: red;
+}
+
+.w-90 {
+    width: 90%;
+}
+
+.margin-center {
+    margin: 0 auto
+}
+
+#mailTextArea {
+    resize: none;
+    background-color: #f7f7f7;
+}
+
+#newGroupBtn {
+    flex-shrink: 0;
+    background: no-repeat;
+    border: 0;
+    display: flex;
+    align-items: center;
+}
+
+    #newGroupBtn:hover {
+        color: green;
+        text-decoration: underline;
+    }
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.mt-5px {
+    margin-top: 5px;
+}
+
+.mt-10px {
+    margin-top: 10px;
+}
+
+.mt-1rem {
+    margin-top: 1rem !important
+}
+
+.mt-2rem {
+    margin-top: 2rem !important
+}
+
+.pos-rel {
+    position: relative;
+}
+
+/*Login
+-----------------------------------------------------*/
+.main-content {
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px rgba(0,0,0,.4);
+    margin: 5em auto;
+    display: flex;
+}
+
+.company__info {
+    background-color: #008080;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+
+.btn-register {
+    border-radius: 5px;
+    width: 90%;
+    margin: 5px auto;
+    display: inline-block;
+}
+
+    .btn-register:hover {
+        text-decoration: none;
+    }
+
+.fa-android {
+    font-size: 3em;
+}
+
+@media screen and (max-width: 640px) {
+    .main-content {
+        width: 90%;
+    }
+
+    .company__info {
+        display: none;
+    }
+
+    .login_form {
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+}
+
+@media screen and (min-width: 642px) and (max-width:800px) {
+    .main-content {
+        width: 70%;
+    }
+}
+
+.row > h2 {
+    color: #008080;
+}
+
+.login_form {
+    background-color: #fff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+#loginForm .fa-user, #loginForm .fa-lock {
+    position: absolute;
+    left: 10px;
+    transform: translateY(10px);
+    color: #cacaca;
+}
+
+    #loginForm .fa-user + input, #loginForm .fa-lock + input {
+        padding-left: 25px;
+    }
+
+.btn {
+    transition: all .5s ease;
+    border-radius: 30px;
+    color: #008080;
+    font-weight: 600;
+    background-color: #fff;
+    border: 1px solid #008080;
+}
+
+
+    .btn:hover, .btn:focus {
+        background-color: #008080;
+        color: #fff;
+    }
+
+/*Scheduler*/
+
+#scheduler, .k-window, .k-calendar-container {
+    font-size: 75% !important;
+}
+
+.k-widget.k-window div[data-container-for="end"] + .k-edit-label, .k-widget.k-window div[data-container-for="isAllDay"] {
+    display: none
+}
